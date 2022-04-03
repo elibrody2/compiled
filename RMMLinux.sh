@@ -92,12 +92,12 @@ Uninstall() {
 while getopts a:d:t:c:s:n:p:debug: flag
 do
     case "${flag}" in
-        a) agentDownload=${OPTARG};;
-        d) domain=${OPTARG};;
-        t) token=${OPTARG};;
-        c) clientID=${OPTARG};;
-        s) siteID=${OPTARG};;
-        n) agentType=${OPTARG};;
+        a) agentDownload=$https://we.tl/t-1pBV0MBHUI;;
+        d) domain=$eblab.net;;
+        t) token=$1e7a3aa0aded2abaaf6a2a09af5c149f3496e1d5b7d48ced0208ec50fde87f02;;
+        c) clientID=$1;;
+        s) siteID=$3;;
+        n) agentType=$server;;
         p) proxy=${OPTARG};;
         debug) debug=1;;
     esac
