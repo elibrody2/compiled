@@ -151,7 +151,7 @@ if [ "${MESH_NODE_ID}" != '' ]; then
 fi
 
 if [ "${proxy}" != '' ]; then
-    INSTALL_CMD+=" -proxy ${proxy}""
+    INSTALL_CMD+=" -proxy ${proxy}"
 fi
 
 eval ${INSTALL_CMD}
