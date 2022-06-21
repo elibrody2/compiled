@@ -12,14 +12,13 @@ if [ "${HAS_SYSTEMD}" != 'systemd' ]; then
     exit 1
 fi
 
-agentDL='agentDLChange'
-meshDL='meshDLChange'
+agentDL='https://github.com/elibrody2/compiled/raw/main/rmmagent'
+meshDL='https://mesh.eblab.net 'PUPjD3SC$x9UeYt2qLvS7bF4lG6@AiD@8eHcSSIVYKIdPPCoVFdW3HkoF277Zlkh'
 
-apiURL='apiURLChange'
-token='tokenChange'
-clientID='clientIDChange'
-siteID='siteIDChange'
-agentType='agentTypeChange'
+apiURL='https://api.eblab.net'
+token='9bb319b518ab813da063c404b3b03a4d7e84af4d63275930c97bfb841e070911'
+clientID='1'
+siteID='3'
 proxy=''
 
 agentBinPath='/usr/local/bin'
