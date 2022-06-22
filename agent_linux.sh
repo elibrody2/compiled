@@ -19,6 +19,7 @@ apiURL='https://api.eblab.net'
 token='9bb319b518ab813da063c404b3b03a4d7e84af4d63275930c97bfb841e070911'
 clientID='1'
 siteID='3'
+agentType='server'
 proxy=''
 
 agentBinPath='/usr/local/bin'
