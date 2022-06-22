@@ -16,7 +16,7 @@ agentDL='https://github.com/elibrody2/compiled/raw/main/rmmagent'
 meshDL='https://mesh.eblab.net/meshagents?id=PUPjD3SC%24x9UeYt2qLvS7bF4lG6%40AiD%408eHcSSIVYKIdPPCoVFdW3HkoF277Zlkh&installflags=0&meshinstall=6'
 
 apiURL='https://api.eblab.net'
-token='9bb319b518ab813da063c404b3b03a4d7e84af4d63275930c97bfb841e070911'
+token='d2308d68b0c9fb8795019144ae7692181a2462193992301be4e54d6dba4ad354'
 clientID='1'
 siteID='3'
 agentType='server'
